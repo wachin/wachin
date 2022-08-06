@@ -18,20 +18,37 @@ I'm a 32-bit Linux user and one of the important things I'm doing is compiling s
 Soy un usuario de Linux de 32 bits y una de las cosas importantes que estoy haciendo es compilar algunas aplicaciones que ya no están disponibles para 32 bits, además de que en ese camino me di cuenta que puedo crear y mejorar algunas. También me gusta documentar aquello que me va sirviendo
 
 
+# Programs for Linux in 32 and 64 bits
 |  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Bash        | [adb-send-files](https://github.com/wachin/adb-send-files)                           | Copy/Transfer files from Android phone to a Linux Personal Computer (PC) and from PC to Android phone with adb using scripts running on Clex Linux Terminal File Manager <br/> <br/> Copiar/transferir archivos desde un teléfono con Android a una computadora personal (PC) con Linux y desde Linux a un teléfono Android con adb usando scripts que se ejecutan en el administrador de archivos para linea de comandos Clex |
 | Bash        | [ffmpeg-screencast](https://github.com/wachin/ffmpeg-screencast)                     | Capture and record your screen with scripts made for ffmpeg with pause option from the Linux Terminal using Clex <br/> <br/> Capture y grabe su pantalla con scripts hechos para ffmpeg con opción de pausa desde la Terminal de Linux usando Clex                                                                                                                                                                             |
-| Code        | [RisenPC-Fluxbox-ES](https://github.com/wachin/RisenPC-Fluxbox-ES)                   | Customized FluxBox for Computers with low resources, in Spanish <br/> <br/> FluxBox personalizado para Ordenadores con pocos recursos, en español                                                                                                                                                                                                                                                                              |
+| C++        | [RisenPC-Fluxbox-ES](https://github.com/wachin/RisenPC-Fluxbox-ES)                   | Customized FluxBox for Computers with low resources, in Spanish <br/> <br/> FluxBox personalizado para Ordenadores con pocos recursos, en español                                                                                                                                                                                                                                                                              |
 | Java, Shell | [shutter-encoder-Linux](https://github.com/wachin/shutter-encoder-Linux)             | A professional video compression tool accessible to all <br/> <br/> Una herramienta de compresión de video profesional accesible para todos                                                                                                                                                                                                                                                                                    |
 | C++         | [vnote](https://github.com/wachin/vnote)                                             | A pleasant note-taking platform in Markdown <br/> <br/> Una agradable plataforma para tomar notas en Markdown                                                                                                                                                                                                                                                                                                                  |
-| Markdown    | [Facilitar-el-Software-Libre](https://github.com/wachin/Facilitar-el-Software-Libre) | Trying to write my tutorials in Markdown with VNote <br/> <br/> Tratando de hacer mis tutoriales en Markdown con VNote                                                                                                                                                                                                                                                                                                         |
+
+# Tutorials
+|  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Text, Markdown    | [Facilitar-el-Software-Libre](https://github.com/wachin/Facilitar-el-Software-Libre) | Writing my tutorials in text with Kate and in Markdown with VNote <br/> <br/> Escribiendo mis tutoriales en texto con Kate y en Markdown con VNote                                                                                                                                                                                                                                                                                                         |
 | Markdown    | [Linux-WachiManuales](https://github.com/wachin/Linux-WachiManuales)                 | Linux tutorials <br/> <br/> Manuales Linux                                                                                                                                                                                                                                                                                                                                                                                     |
 
 
 ## Social networks: 
-- Facebook [wachin.id](https://www.facebook.com/wachin.id)
-- Instagram [washington_indacochea](https://www.instagram.com/washington_indacochea/)
+- Facebook [wachin.id](https://www.facebook.com/wachin.id)  
+- Instagram [washington_indacochea](https://www.instagram.com/washington_indacochea/)  
+
+# Where everything began
+The following website is my blog, there I started to create entries about Linux programs and related topics, in spanish:
+
+Historia de esta página ~ Proyecto Facilitar el Software Libre en el Ecuador  
+[https://facilitarelsoftwarelibre.blogspot.com/2019/08/historia-de-esta-pagina.html](https://facilitarelsoftwarelibre.blogspot.com/2019/08/historia-de-esta-pagina.html)
+
+Y try to wrote some entries into english in:
+
+Project Facilitating Free Software in Ecuador  
+[https://facilitatingfreesoftware.blogspot.com/](https://facilitatingfreesoftware.blogspot.com/)
+
 
 
 
