@@ -39,7 +39,7 @@ Soy un usuario de Linux de 32 bits y una de las cosas importantes que estoy haci
 - Instagram [washington_indacochea](https://www.instagram.com/washington_indacochea/)  
 
 # Where everything began
-The following website is my blog, there I started to create entries about Linux programs and related topics, in spanish:
+The following website is my main blog, there I started to create entries about Linux programs and related topics, in spanish:
 
 **Historia de esta página ~ Proyecto Facilitar el Software Libre en el Ecuador**  
 [https://facilitarelsoftwarelibre.blogspot.com/2019/08/historia-de-esta-pagina.html](https://facilitarelsoftwarelibre.blogspot.com/2019/08/historia-de-esta-pagina.html)
