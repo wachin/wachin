@@ -29,8 +29,8 @@ Mis creaciones (Funcionando en Linux 32 y 64 bits)
 # Linux deb packages 32 bits (Forks) 
 Paquetes deb de 32 bits (Bifurcaciones)
 
-In the following repositories I have created the deb packages for [MX Linux 21](https://mxlinux.org/)
-En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](https://mxlinux.org/)
+In the following repositories I have created the deb packages for [MX Linux 21](https://mxlinux.org/)  
+En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](https://mxlinux.org/)  
 |  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Java, Shell | [shutter-encoder-Linux](https://github.com/wachin/shutter-encoder-Linux)             | A professional video compression tool accessible to all <br/> <br/> Una herramienta de compresión de video profesional accesible para todos                                                                                                                                                                                                                                                                                    |
