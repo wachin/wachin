@@ -18,14 +18,17 @@ I'm a 32-bit Linux user and one of the important things I'm doing is compiling s
 Soy un usuario de Linux de 32 bits y una de las cosas importantes que estoy haciendo es compilar algunas aplicaciones que ya no están disponibles para 32 bits, además de que en ese camino me di cuenta que puedo crear y mejorar algunas. También me gusta documentar aquello que me va sirviendo
 
 
-# My creations (Workingon 32 and 64 bits Linux)
+# My creations (Workingon on 32 and 64 bits Linux)
+Mis creaciones (Funcionando en Linux 32 y 64 bits)
 |  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Bash        | [adb-send-files](https://github.com/wachin/adb-send-files)                           | Copy/Transfer files from Android phone to a Linux Personal Computer (PC) and from PC to Android phone with adb using scripts running on Clex Linux Terminal File Manager <br/> <br/> Copiar/transferir archivos desde un teléfono con Android a una computadora personal (PC) con Linux y desde Linux a un teléfono Android con adb usando scripts que se ejecutan en el administrador de archivos para linea de comandos Clex |
 | Bash        | [ffmpeg-screencast](https://github.com/wachin/ffmpeg-screencast)                     | Capture and record your screen with ffmpeg from Linux terminal with the command line file manager "Clex" using scripts for pause option (joining created video pieces into one) <br/> <br/> Capture y grabe su pantalla con ffmpeg desde la terminal de Linux con el administrador de archivos para línea de comandos "Clex" usando scripts para opción de pausa (uniendo los pedazos de vídeo creados en uno solo)            |                                                                                                                                                                 |
 
 
-# Linux Builds in deb 32 bits (Forks) 
+# Linux deb packages 32 bits (Forks) 
+Paquetes deb de 32 bits (Bifurcaciones)
+
 In the following repositories I have created the deb packages for [MX Linux 21](https://mxlinux.org/)
 En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](https://mxlinux.org/)
 |  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
