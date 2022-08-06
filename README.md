@@ -49,6 +49,12 @@ Y try to wrote some entries into english in:
 **Project Facilitating Free Software in Ecuador**  
 [https://facilitatingfreesoftware.blogspot.com/](https://facilitatingfreesoftware.blogspot.com/)
 
+# Mission and Vision
+Linux, the final frontier. These are the voyages of Washington Indacochea Delgado aboard the MX Linux Operating System; his continuing mission, to explore new ways to make it easier to use Free Software to it can go to places where he never could.
+
+Linux, la frontera final. Estos son los viajes de Washington Indacochea Delgado a bordo del Sistema Operativo MX Linux; su continua misión, explorar nuevas maneras de facilitar el uso del Software Libre para que llegue a lugares donde nunca pudo llegar.
+
+
 
 
 
