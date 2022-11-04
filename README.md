@@ -18,8 +18,6 @@ I'm a 32-bit Linux user and one of the important things I'm doing is compiling s
 Soy un usuario de Linux de 32 bits y una de las cosas importantes que estoy haciendo es compilar algunas aplicaciones que ya no están disponibles para 32 bits, además de que en ese camino me di cuenta que puedo crear y mejorar algunas. También me gusta documentar aquello que me va sirviendo
 
 # My gists
-Mis gists
-
 The gists are a way to share litle code
 
 Los gists son una manera de [compartir](https://gist.github.com/renatojobal/cebf28c1f7d941f18aa7129074c5ac2d) codigo pequeño
