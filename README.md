@@ -17,9 +17,19 @@ I'm a 32-bit Linux user and one of the important things I'm doing is compiling s
 
 Soy un usuario de Linux de 32 bits y una de las cosas importantes que estoy haciendo es compilar algunas aplicaciones que ya no están disponibles para 32 bits, además de que en ese camino me di cuenta que puedo crear y mejorar algunas. También me gusta documentar aquello que me va sirviendo
 
+# My gists
+Mis gists
+
+The gists are a way to share litle code
+
+Los gists son una manera de [compartir](https://gist.github.com/renatojobal/cebf28c1f7d941f18aa7129074c5ac2d) codigo pequeño
+
+[https://gist.github.com/wachin](https://gist.github.com/wachin)
+
 
 # My creations (Workingon on 32 and 64 bits Linux)
 Mis creaciones (Funcionando en Linux 32 y 64 bits)
+
 |  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Bash        | [adb-send-files](https://github.com/wachin/adb-send-files)                           | Copy/Transfer files from Android phone to a Linux Personal Computer (PC) and from PC to Android phone with adb using scripts running on Clex Linux Terminal File Manager <br/> <br/> Copiar/transferir archivos desde un teléfono con Android a una computadora personal (PC) con Linux y desde Linux a un teléfono Android con adb usando scripts que se ejecutan en el administrador de archivos para linea de comandos Clex |
@@ -31,10 +41,11 @@ Paquetes deb de 32 bits (Bifurcaciones)
 
 In the following repositories I have created the deb packages for [MX Linux 21](https://mxlinux.org/)  
 En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](https://mxlinux.org/)  
-|  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
-| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Java, Shell | [shutter-encoder-Linux](https://github.com/wachin/shutter-encoder-Linux)             | A professional video compression tool accessible to all <br/> <br/> Una herramienta de compresión de video profesional accesible para todos                                                                                                                                                                                                                                                                                    |
-| C++         | [VNote](https://github.com/wachin/vnote)                                             | A pleasant note-taking platform in Markdown <br/> <br/> Una agradable plataforma para tomar notas en Markdown                                                                                                                                                                                                                                                                                                                  |
+
+|  Tecnology  |                                Repository                                |                                                                          Description                                                                          |
+| ----------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Java, Shell | [shutter-encoder-Linux](https://github.com/wachin/shutter-encoder-Linux) | A professional video compression tool accessible to all <br/> <br/> Una herramienta de compresión de video profesional accesible para todos                   |
+| C++         | [VNote](https://github.com/wachin/vnote-fork)                            | Note-taking application that knows programmers and markdown better <br/> <br/> Aplicación para tomar notas que conoce mejor a los programadores y al markdown |
 
 
 # Custom Window Manager 
