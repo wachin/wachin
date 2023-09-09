@@ -58,6 +58,15 @@ En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](htt
 | Text, Markdown | [Facilitar-el-Software-Libre](https://github.com/wachin/Facilitar-el-Software-Libre) | Writing my tutorials in text with Kate and in Markdown with [VNote](https://github.com/wachin/vnote) to see with pictures off-line <br/> <br/> Escribiendo mis tutoriales en texto con Kate y en Markdown con [VNote](https://github.com/wachin/vnote) para ver con imagenes off-line                                                                                                                                       |                                                                                                                                                              |
 | Text           | [Linux-WachiManuales](https://github.com/wachin/Linux-WachiManuales)                 | Linux Manuals source code <br/> <br/> Codigo fuente de Manuales de Linux                                                                                                                                                                                                                                                                                                                                                    |
 
+# Research
+|  Info     |                                      Repository                                    |                                                                                                                                                                                                          Description                                                                        |
+| --------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Document  | [Los-centenarios-de-Okinawa](https://github.com/wachin/Los-centenarios-de-Okinawa) | El Doctor Makoto Suzuki lleva desde el año 1975 realizando un exhaustivo seguimiento de la vida de alrededor de 2500 centenarios de Okinawa (Centenarios significa personas que han llegado a vivir hasta los 100 años y algunos más)                                                       |
+
+
+
+https://github.com/wachin/Los-centenarios-de-Okinawa
+
 
 ## Social networks: 
 - Facebook [wachin.id](https://www.facebook.com/wachin.id)  
