@@ -8,7 +8,7 @@ Bienvenidos a mi cuenta en GitHub, espero les sea de su agrado
 [![Twitter Follow](https://img.shields.io/twitter/follow/wachin_id?style=social)](https://twitter.com/intent/follow?screen_name=wachin_id)
 [![GitHub followers](https://img.shields.io/github/followers/wachin?label=Follow&style=social)](https://github.com/wachin/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-wachin.id@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:wachin.id@gmail.com)](mailto:wachin.id@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/pfsle)](https://t.me/pfsle)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/pfsle)](https://t.me/pfslee)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/wachin/)](https://www.linkedin.com/in/wachin/)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3iYPG22R0QXL5pF2ssDUmw?style=social)](https://www.youtube.com/channel/UC3iYPG22R0QXL5pF2ssDUmw)
 [![ProfileViews](https://komarev.com/ghpvc/?username=wachin&color=red&style=flat)](https://komarev.com/ghpvc/?username=wachin)
