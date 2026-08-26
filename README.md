@@ -17,11 +17,11 @@ Bienvenidos a mi cuenta en GitHub, espero les sea de su agrado
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-one-coral.vercel.app/api?username=wachin&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-theta.vercel.app/api?username=wachin&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats-one-coral.vercel.app/api/top-langs/?username=wachin&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-theta.vercel.app/api/top-langs/?username=wachin&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=wachin&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-stats-theta.vercel.app/api?username=wachin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
