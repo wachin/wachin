@@ -25,13 +25,97 @@ Los gists son una manera de [compartir](https://gist.github.com/renatojobal/cebf
 [https://gist.github.com/wachin](https://gist.github.com/wachin)
 
 
-# My creations (Workingon on 32 and 64 bits Linux)
+# My Creations (Working on 32 and 64 bits Linux)
 Mis creaciones (Funcionando en Linux 32 y 64 bits)
 
 |  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Bash        | [adb-send-files](https://github.com/wachin/adb-send-files)                           | Copy/Transfer files from Android phone to a Linux Personal Computer (PC) and from PC to Android phone with adb using scripts running on Clex Linux Terminal File Manager <br/> <br/> Copiar/transferir archivos desde un teléfono con Android a una computadora personal (PC) con Linux y desde Linux a un teléfono Android con adb usando scripts que se ejecutan en el administrador de archivos para linea de comandos Clex |
-| Bash, Python        | [ffmpeg-screencast](https://github.com/wachin/ffmpeg-screencast)                     | Capture and record your screen with ffmpeg ussing this Python GUI <br/> <br/> Captura y graba tu pantalla con ffmpeg usando esta GUI de Python            |                                                                                                                                                                 |
+| Bash, Python        | [ffmpeg-screencast](https://github.com/wachin/ffmpeg-screencast)                     | Capture and record your screen with ffmpeg using this Python GUI <br/> <br/> Captura y graba tu pantalla con ffmpeg usando esta GUI de Python            |                                                                                                                                                                 |
+
+
+# PyQt6 Applications
+Aplicaciones PyQt6
+
+|  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Python, PyQt6 | [TBO](https://github.com/wachin/TBO) | A modern comic editor for legacy TBO documents, reimplemented in Python/PyQt6. Reads/writes .tbo, with an asset library, undo/redo, and PNG/PDF/SVG export <br/> <br/> Un editor de cómics moderno para documentos TBO legacy, re implementado en Python/PyQt6. Lee/escribe .tbo, con biblioteca de recursos, deshacer/rehacer, y exportación a PNG/PDF/SVG |
+| Python, PyQt6 | [dmidiplayer](https://github.com/wachin/dmidiplayer) | Port to PyQt6 of Drumstick MIDI File Player Multiplatform <br/> <br/> Puerto a PyQt6 del reproductor de archivos MIDI multiplataforma Drumstick |
+| Python, PyQt6 | [guitarchordstudio](https://github.com/wachin/guitarchordstudio) | Guitar Chord Studio is a transposer tool for guitarists. Built with Python and PyQt6, this app allows musicians to load, edit, and transpose song chord sheets, with auto-scroll functionality for hands-free performance. Ideal for live performances, rehearsals, and music practice. <br/> <br/> Guitar Chord Studio es una herramienta transponedora para guitarristas. Construida con Python y PyQt6, esta aplicación permite a los músicos cargar, editar y transponer hojas de acordes, con función de auto-scroll para interpretación sin manos. Ideal para actuaciones en vivo, ensayos y práctica musical. |
+| Python, PyQt6 | [ksnip](https://github.com/wachin/ksnip) | Port to PyQt6 of Ksnip is a Qt based cross-platform screenshot tool that provides many annotation features for your screenshots. <br/> <br/> Puerto a PyQt6 de Ksnip, una herramienta de captura de pantalla multiplataforma basada en Qt que proporciona muchas funciones de anotación para tus capturas. |
+| Python, PyQt6 | [youtube-subtitle-downloader](https://github.com/wachin/youtube-subtitle-downloader) | A modern PyQt6 desktop application for downloading, previewing and converting YouTube subtitles and automatic captions using yt-dlp. Supports SRT, VTT, TTML, JSON3 and clean TXT output. <br/> <br/> Una aplicación de escritorio PyQt6 moderna para descargar, previsualizar y convertir subtítulos y subtítulos automáticos de YouTube usando yt-dlp. Soporta SRT, VTT, TTML, JSON3 y salida TXT limpia. |
+| Python, PyQt6 | [minichord](https://github.com/wachin/minichord) | miniChord is an early PyQt6 prototype for a page-oriented WYSIWYG ChordPro editor and worship songbook layout tool. <br/> <br/> miniChord es un prototipo temprano de PyQt6 para un editor ChordPro WYSIWYG orientado a páginas y herramienta de maquetación de cantorales de adoración. |
+| Python, PyQt6 | [pdf-image-exporter](https://github.com/wachin/pdf-image-exporter) | PDF Image Exporter is a GNU/Linux desktop application for converting PDF pages to image files with Poppler's pdftocairo. <br/> <br/> PDF Image Exporter es una aplicación de escritorio GNU/Linux para convertir páginas de PDF a archivos de imagen con pdftocairo de Poppler. |
+| Python, PyQt6 | [repopath-sanitizer](https://github.com/wachin/repopath-sanitizer) | A PyQt6 desktop app (Linux-first) that scans a local Git working tree and finds file/folder paths that would fail to check out on Windows. It proposes safe fixes and can apply them using git-aware renames (git mv) to preserve history. <br/> <br/> Una aplicación de escritorio PyQt6 (primero Linux) que escanea un árbol de trabajo Git local y encuentra rutas de archivos/carpetas que fallarían al hacer checkout en Windows. Propone correcciones seguras y puede aplicarlas usando renombrados que Git reconoce (git mv) para preservar el historial. |
+| Python, PyQt5 | [ffmulticonverter](https://github.com/wachin/ffmulticonverter) | Modern PyQt5-based cross-platform file converter for audio, video, images, and documents. Supports Linux and Windows. <br/> <br/> Convertidor de archivos multiplataforma moderno basado en PyQt5 para audio, video, imágenes y documentos. Soporta Linux y Windows. |
+
+
+# Linguistic Tools and Dictionaries
+Herramientas Lingüísticas y Diccionarios
+
+|  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Python, PyQt6 | [pyqt6-linguistic-tools](https://github.com/wachin/pyqt6-linguistic-tools) | Reusable linguistic infrastructure for Python and PyQt6 applications. The project will provide a single cross-platform API for spell checking, spelling suggestions, and synonyms. <br/> <br/> Infraestructura lingüística reutilizable para aplicaciones Python y PyQt6. El proyecto proporcionará una API multiplataforma única para verificación ortográfica, sugerencias de ortografía y sinónimos. |
+| Dictionary | [libreoffice-dictionaries-collection](https://github.com/wachin/libreoffice-dictionaries-collection) | Complete collection of multilingual dictionaries for LibreOffice (version 25.2.3) for spelling, synonyms, and hyphenation. Extracted from the portable version and optimized for use in multiple applications such as OpenOffice, Firefox, Thunderbird, and open source projects. <br/> <br/> Colección completa de diccionarios multilingües para LibreOffice (versión 25.2.3) para ortografía, sinónimos y guiones. Extraídos de la versión portátil y optimizados para usar en múltiples aplicaciones como OpenOffice, Firefox, Thunderbird y proyectos de código abierto. |
+| Font | [Microsoft-Fonts](https://github.com/wachin/Microsoft-Fonts) | Microsoft Fonts for usage in Linux <br/> <br/> Fuentes Microsoft para uso en Linux |
+| Font | [Alternative-to-privative-Microsoft-Windows-Fonts](https://github.com/wachin/Alternative-to-privative-Microsoft-Windows-Fonts) | Free and open-source font alternatives to proprietary Microsoft Windows fonts, with Linux installation instructions for Debian, Ubuntu, MX Linux, and related distributions. <br/> <br/> Alternativas de fuentes libres y de código abierto a las fuentes propietarias de Microsoft Windows, con instrucciones de instalación en Linux para Debian, Ubuntu, MX Linux y distribuciones relacionadas. |
+| Python | [script-quitar-acordes](https://github.com/wachin/script-quitar-acordes) | Script en python para quitar acordes de guitarra de varios archivos de texto que estén en una carpeta <br/> <br/> Script en Python para quitar acordes de guitarra de varios archivos de texto que estén en una carpeta |
+
+
+# Language Packs for WPS Office
+Paquetes de Idiomas para WPS Office
+
+|  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Shell | [wps-office-12-language-packs](https://github.com/wachin/wps-office-12-language-packs) | Language packs, MUI files, and Hunspell spellcheck dictionaries for WPS Office 12 Chinese version on Linux <br/> <br/> Paquetes de idiomas, archivos MUI y diccionarios de corrección ortográfica Hunspell para WPS Office 12 versión china en Linux |
+| Shell | [wps-office-all-mui-win-language](https://github.com/wachin/wps-office-all-mui-win-language) | MUI (Multilingual User Interface) & Dict (Spell Check Dictionary) WPS Office Linux <br/> <br/> MUI (Interfaz Multilingüe) y Diccionarios (Corrección Ortográfica) para WPS Office Linux |
+
+
+# Music and Worship
+Música y Adoración
+
+|  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Markdown | [Cancionero](https://github.com/wachin/Cancionero) | Christian Praise Songbook of the Church <br/> <br/> Cantorale de Alabanza Cristiana de la Iglesia |
+
+
+# System Tools
+Herramientas del Sistema
+
+|  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Python, PyQt6 | [lucio-iva-calculator](https://github.com/wachin/lucio-iva-calculator) | Desktop VAT Calculator for Windows, Linux and macOS built with PyQt6 <br/> <br/> Calculadora de IVA de escritorio para Windows, Linux y macOS construida con PyQt6 |
+| Python | [xinput-plus](https://github.com/wachin/xinput-plus) | A simple GUI tool for adjusting mouse and touchpad speed in X11 Linux window managers like Openbox, JWM, iceWM, and Fluxbox. Perfect for external keyboards with integrated touchpads (like Logitech K400) and laptop touchpads <br/> <br/> Una herramienta GUI simple para ajustar la velocidad del ratón y touchpad en gestores de ventanas X11 Linux como Openbox, JWM, iceWM y Fluxbox. Perfecta para teclados externos con touchpad integrado (como Logitech K400) y touchpads de laptops |
+| HTML, Markdown | [html-to-markdown](https://github.com/wachin/html-to-markdown) | ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules. <br/> <br/> ⚙️ Convierte HTML a Markdown. Incluso funciona con sitios web completos y puede ser extendido mediante reglas. |
+
+
+# Business and Professional
+Negocios y Profesional
+
+|  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Python | [Lucio-JL-Mantenimiento](https://github.com/wachin/Lucio-JL-Mantenimiento) | Professional system for receiving and repairing computer and electronic equipment <br/> <br/> Sistema profesional para recepción y reparación de equipos de cómputo y electrónicos |
+| Python | [recipe_book_downloader](https://github.com/wachin/recipe_book_downloader) | A program to download videos from saved Facebook playlists <br/> <br/> Un programa para descargar videos de listas de reproducción guardadas de Facebook |
+
+
+# Font and Theme Improvements
+Mejoras de Fuentes y Temas
+
+|  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Font | [fontmatrix](https://github.com/wachin/fontmatrix) | Improvement of FontMatrix the Free font collections manager for Linux, Mac and Windows <br/> <br/> Mejora de FontMatrix, el gestor gratuito de colecciones de fuentes para Linux, Mac y Windows |
+| CSS | [zorin-icon-themes](https://github.com/wachin/zorin-icon-themes) | ZorinOS icon theme improvements <br/> <br/> Mejoras del tema de iconos de ZorinOS |
+| CSS | [zorin-desktop-themes](https://github.com/wachin/zorin-desktop-themes) | ZorinOS desktop theme improvements <br/> <br/> Mejoras del tema de escritorio de ZorinOS |
+| Android | [markor](https://github.com/wachin/markor) | Improvements of Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. <br/> <br/> Mejoras del editor de texto - Notas y ToDo (para Android) - Markdown, todo.txt, texto plano, matemáticas, .. |
+
+
+# Educational Resources
+Recursos Educativos
+
+|  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| JavaScript | [yandri-macias-simulators](https://github.com/wachin/yandri-macias-simulators) | Simuladores de Física hechos por el Profesor Yandri Macías para la Unidad Educativa Treinta de Septiembre <br/> <br/> Physics Simulators made by Professor Yandri Macías for the Treinta de Septiembre Educational Unit |
+| Python, PyQt6 | [electrocultura-christofleau](https://github.com/wachin/electrocultura-christofleau) | Open-source resource on electroculture and electroagriculture based on Justin Christofleau's patents (1920s). Includes scientific studies, translated patents with modern diagrams, step-by-step guides, and educational materials for sustainable agriculture using atmospheric electricity. <br/> <br/> Recurso de código abierto sobre electrocultura y electroagricultura basado en las patentes de Justin Christofleau (década de 1920). Incluye estudios científicos, patentes traducidas con diagramas modernos, guías paso a paso y materiales educativos para agricultura sostenible usando electricidad atmosférica. |
 
 
 # Linux deb packages 32 bits (Forks) 
@@ -47,32 +131,35 @@ En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](htt
 
 
 # Custom Window Manager 
+Gestor de Ventanas Personalizado
+
 |  Tecnology  |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | C++, Bash   | [RisenPC-Fluxbox-ES](https://github.com/wachin/RisenPC-Fluxbox-ES)                   | Customized FluxBox for Computers with low resources, in Spanish <br/> <br/> FluxBox personalizado para Ordenadores con pocos recursos, en español                                                                                                                                                                                                                                                                              |
 
 
 # Tutorials
+Tutoriales
+
 |  Tecnology     |                                      Repository                                      |                                                                                                                                                                                                          Description                                                                                                                                                                                                        |
 | -------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Text, Markdown | [Facilitar-el-Software-Libre](https://github.com/wachin/Facilitar-el-Software-Libre) | Writing my tutorials in text with Kate and in Markdown with [VNote](https://github.com/wachin/vnote) to see with pictures off-line <br/> <br/> Escribiendo mis tutoriales en texto con Kate y en Markdown con [VNote](https://github.com/wachin/vnote) para ver con imagenes off-line                                                                                                                                       |                                                                                                                                                              |
+| Text, Markdown | [Facilitar-el-Software-Libre](https://github.com/wachin/Facilitar-el-Software-Libre) | Writing my tutorials in text with Kate and in Markdown with [VNote](https://github.com/wachin/vnote) to see with pictures off-line <br/> <br/> Escribiendo mis tutoriales en texto con Kate y en Markdown con [VNote](https://github.com/wachin/vnote) para ver con imagenes off-line                                                                                                                                       |
 | Text           | [Linux-WachiManuales](https://github.com/wachin/Linux-WachiManuales)                 | Linux Manuals source code <br/> <br/> Codigo fuente de Manuales de Linux                                                                                                                                                                                                                                                                                                                                                    |
 
 # Research
+Investigación
+
 |  Info     |                                      Repository                                    |                                                                                                                                                                                                          Description                                                                        |
 | --------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Document  | [Los-centenarios-de-Okinawa](https://github.com/wachin/Los-centenarios-de-Okinawa) | El Doctor Makoto Suzuki lleva desde el año 1975 realizando un exhaustivo seguimiento de la vida de alrededor de 2500 centenarios de Okinawa (Centenarios significa personas que han llegado a vivir hasta los 100 años y algunos más)                                                       |
 
 
 
-https://github.com/wachin/Los-centenarios-de-Okinawa
-
-
-## Social networks: 
+## Social networks / Redes sociales: 
 - Facebook [wachin.id](https://www.facebook.com/wachin.id)  
 - Instagram [washington_indacochea](https://www.instagram.com/washington_indacochea/)  
 
-# Where everything began
+# Where everything began / Donde todo comenzó
 The following website is my main blog, there I started to create entries about Linux programs and related topics, in spanish:
 
 **Historia de esta página ~ Proyecto Facilitar el Software Libre en el Ecuador**  
@@ -83,12 +170,7 @@ Y try to wrote some entries into english in:
 **Project Facilitating Free Software in Ecuador**  
 [https://facilitatingfreesoftware.blogspot.com/](https://facilitatingfreesoftware.blogspot.com/)
 
-# Mission and Vision
+# Mission and Vision / Misión y Visión
 Linux, the final frontier. These are the voyages of Washington Indacochea Delgado aboard the MX Linux Operating System; his continuing mission, to explore new ways to make it easier to use Free Software to it can go to places where he never could.
 
 Linux, la frontera final. Estos son los viajes de Washington Indacochea Delgado a bordo del Sistema Operativo MX Linux; su continua misión, explorar nuevas maneras de facilitar el uso del Software Libre para que llegue a lugares donde nunca pudo llegar.
-
-
-
-
-
