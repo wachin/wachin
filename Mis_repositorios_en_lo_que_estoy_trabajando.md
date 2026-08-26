@@ -1,5 +1,13 @@
 
 
+---
+
+https://github.com/wachin/wps-office-12-language-packs
+
+Language packs, MUI files, and Hunspell spellcheck dictionaries for WPS Office 12 Chinese version on Linux
+
+---
+
 https://github.com/wachin/TBO
 
 A modern comic editor for legacy TBO documents, reimplemented in Python/PyQt6. Reads/writes .tbo, with an asset library, undo/redo, and PNG/PDF/SVG export
@@ -68,11 +76,6 @@ A modern PyQt6 desktop application for downloading, previewing and converting Yo
 
 ---
 
-https://github.com/wachin/wps-office-12-language-packs
-
-Language packs, MUI files, and Hunspell spellcheck dictionaries for WPS Office 12 Chinese version on Linux
-
----
 
 https://github.com/wachin/fontmatrix
 
