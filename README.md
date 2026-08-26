@@ -13,6 +13,27 @@ Bienvenidos a mi cuenta en GitHub, espero les sea de su agrado
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3iYPG22R0QXL5pF2ssDUmw?style=social)](https://www.youtube.com/channel/UC3iYPG22R0QXL5pF2ssDUmw)
 [![ProfileViews](https://komarev.com/ghpvc/?username=wachin&color=red&style=flat)](https://komarev.com/ghpvc/?username=wachin)
 
+---
+
+# Technologies & Skills
+Tecnologías y Habilidades
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
 I'm a 32-bit Linux user and one of the important things I'm doing is compiling some applications that are no longer available for 32-bit, plus along the way I've realized I can build and improve some. Also like to document what is serving me
 
 Soy un usuario de Linux de 32 bits y una de las cosas importantes que estoy haciendo es compilar algunas aplicaciones que ya no están disponibles para 32 bits, además de que en ese camino me di cuenta que puedo crear y mejorar algunas. También me gusta documentar aquello que me va sirviendo
