@@ -14,7 +14,7 @@
 
 ---
 
-## 🙋 About Me / Sobre Mí
+## About Me / Sobre Mí
 
 I'm a **32-bit Linux user** passionate about compiling and improving applications that are no longer available for legacy systems. I love documenting everything that helps me along the way.
 
@@ -24,7 +24,7 @@ Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicac
 
 ---
 
-## 🛠️ Technologies & Skills / Tecnologías y Habilidades
+## Technologies & Skills / Tecnologías y Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -42,21 +42,28 @@ Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicac
 
 ---
 
-## 🚀 Featured Projects / Proyectos Destacados
+## Featured Projects / Proyectos Destacados
 
-### 🎵 Music & Worship Apps / Aplicaciones de Música y Adoración
+### Music & Worship Apps / Aplicaciones de Música y Adoración
 
 | Repository | Description |
 | ---------- | ----------- |
 | [Cancionero](https://github.com/wachin/Cancionero) | Christian Praise Songbook of the Church <br/> <br/> Cantorale de Alabanza Cristiana de la Iglesia |
 | [guitarchordstudio](https://github.com/wachin/guitarchordstudio) | Guitar Chord Studio - Transposer tool for guitarists with auto-scroll <br/> <br/> Guitar Chord Studio - Herramienta transponedora para guitarristas con auto-scroll |
-| [txt-to-chordpro-converter](https://github.com/wachin/txt-to-chordpro-converter) | Multi-file PyQt6 GUI converter for transforming church TXT chord sheets into ChordPro format <br/> <br/> Convertidor GUI multi-archivo PyQt6 para transformar hojas de acordes TXT de iglesias en formato ChordPro |
+| [txt to chordpro converter](https://github.com/wachin/txt-to-chordpro-converter) | Multi-file PyQt6 GUI converter for transforming church TXT chord sheets into ChordPro format <br/> <br/> Convertidor GUI multi-archivo PyQt6 para transformar hojas de acordes TXT de iglesias en formato ChordPro |
 | [puddletag](https://github.com/wachin/puddletag) | Renewed maintenance work of puddletag, the Powerful audio tag editor for GNU/Linux <br/> <br/> Trabajo de mantenimiento renovado de puddletag, el editor de etiquetas de audio poderoso para GNU/Linux |
 | [ChordStudioApp](https://github.com/wachin/ChordStudioApp) | Android app for opening plain text chord sheets and transposing chords <br/> <br/> App Android para abrir hojas de acordes en texto plano y transponer acordes |
 
 ---
 
-### 🖥️ Desktop Applications / Aplicaciones de Escritorio
+| Repository | Description |
+| ---------- | ----------- |
+| [Youtube Subtitle Text Separator](https://github.com/wachin/youtube-subtitle-text-separator) | Intelligent text separator for translation, designed to process SRT subtitle files (YouTube, JDownloader) and general text, clean them up, and split them into smaller parts. <br/> <br/> Separador de texto inteligente para traducción, diseñado para procesar archivos de subtítulos SRT (YouTube, JDownloader) y texto general, limpiarlos y dividirlos en partes más pequeñas. |
+| [youtube-subtitle-downloader](https://github.com/wachin/youtube-subtitle-downloader) | PyQt6 desktop app for downloading YouTube subtitles using yt-dlp <br/> <br/> App de escritorio PyQt6 para descargar subtítulos de YouTube usando yt-dlp |
+
+---
+
+### Desktop Applications / Aplicaciones de Escritorio
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -70,7 +77,7 @@ Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicac
 
 ---
 
-### 📝 Linguistic Tools / Herramientas Lingüísticas
+### Linguistic Tools / Herramientas Lingüísticas
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -78,7 +85,6 @@ Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicac
 | [libreoffice-dictionaries-collection](https://github.com/wachin/libreoffice-dictionaries-collection) | Complete multilingual dictionaries for LibreOffice 25.2.3 <br/> <br/> Colección completa de diccionarios multilingües para LibreOffice 25.2.3 |
 | [Microsoft-Fonts](https://github.com/wachin/Microsoft-Fonts) | Microsoft Fonts for usage in Linux <br/> <br/> Fuentes Microsoft para uso en Linux |
 | [Alternative-to-privative-Microsoft-Windows-Fonts](https://github.com/wachin/Alternative-to-privative-Microsoft-Windows-Fonts) | Free font alternatives to proprietary Microsoft fonts <br/> <br/> Alternativas de fuentes libres a las fuentes propietarias de Microsoft |
-| [script-quitar-acordes](https://github.com/wachin/script-quitar-acordes) | Script para quitar acordes de guitarra de archivos de texto <br/> <br/> Script para quitar acordes de guitarra de archivos de texto |
 
 ---
 
@@ -91,7 +97,15 @@ Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicac
 
 ---
 
-### 🛠️ System Tools / Herramientas del Sistema
+### Holyrics
+
+| Repository | Description|
+|---|---|
+| [script-quitar-acordes](https://github.com/wachin/script-quitar-acordes) | Script to remove guitar chords from text files for use in Holyrics  <br/> <br/> Script para quitar acordes de guitarra de archivos de texto para usar en Holyrics |
+
+---
+
+### System Tools / Herramientas del Sistema
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -101,7 +115,7 @@ Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicac
 
 ---
 
-### 🏢 Business & Professional / Negocios y Profesional
+### Business & Professional / Negocios y Profesional
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -110,7 +124,7 @@ Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicac
 
 ---
 
-### 📚 Educational Resources / Recursos Educativos
+### Educational Resources / Recursos Educativos
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -120,7 +134,7 @@ Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicac
 
 ---
 
-### 🎨 Font & Theme Improvements / Mejoras de Fuentes y Temas
+### Font & Theme Improvements / Mejoras de Fuentes y Temas
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -131,7 +145,7 @@ Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicac
 
 ---
 
-### 🔧 Linux 32-bit Packages / Paquetes Linux 32-bit
+### Linux 32-bit Packages / Paquetes Linux 32-bit
 
 In the following repositories I have created the deb packages for [MX Linux 21](https://mxlinux.org/)  
 En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](https://mxlinux.org/)
@@ -144,7 +158,7 @@ En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](htt
 
 ---
 
-### 📖 Tutorials & Documentation / Tutoriales y Documentación
+### Tutorials & Documentation / Tutoriales y Documentación
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -154,7 +168,7 @@ En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](htt
 
 ---
 
-## 📫 Connect With Me / Conéctate Conmigo
+## Connect With Me / Conéctate Conmigo
 
 **Social Networks / Redes Sociales:**
 - 📘 Facebook [wachin.id](https://www.facebook.com/wachin.id)
@@ -166,7 +180,7 @@ En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](htt
 
 ---
 
-## 🎯 Mission & Vision / Misión y Visión
+## Mission & Vision / Misión y Visión
 
 Linux, the final frontier. These are the voyages of Washington Indacochea Delgado aboard the MX Linux Operating System; his continuing mission, to explore new ways to make it easier to use Free Software so it can go to places where he never could.
 
@@ -174,7 +188,7 @@ Linux, la frontera final. Estos son los viajes de Washington Indacochea Delgado 
 
 ---
 
-### 📊 My Gists / Mis Gists
+### My Gists / Mis Gists
 
 The gists are a way to share little code  
 Los gists son una manera de [compartir](https://gist.github.com/renatojobal/cebf28c1f7d941f18aa7129074c5ac2d) código pequeño
