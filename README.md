@@ -6,10 +6,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wachin_id?style=social&cacheSeconds=3600)](https://twitter.com/intent/follow?screen_name=wachin_id)
 [![GitHub followers](https://img.shields.io/github/followers/wachin?label=Follow&style=social&cacheSeconds=3600)](https://github.com/wachin?tab=followers)
-[![Email Badge](https://img.shields.io/badge/-linuxfrontier%40proton.me-5B7FFE?style=social&logo=protonmail&logoColor=white&cacheSeconds=3600&link=mailto:linuxfrontier@proton.me)](mailto:linuxfrontier@proton.me)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=social&logo=telegram&logoColor=white&cacheSeconds=3600&link=https://t.me/pfslee)](https://t.me/pfslee)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white&cacheSeconds=3600&link=https://www.linkedin.com/in/wachin/)](https://www.linkedin.com/in/wachin/)
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC3iYPG22R0QXL5pF2ssDUmw?style=social&cacheSeconds=3600)](https://www.youtube.com/channel/UC3iYPG22R0QXL5pF2ssDUmw)
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3iYPG22R0QXL5pF2ssDUmw)
+
+
 [![Profile Views](https://komarev.com/ghpvc/?username=wachin&color=red&style=flat)](https://komarev.com/ghpvc/?username=wachin)
 ---
 
