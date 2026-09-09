@@ -6,12 +6,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wachin_id?style=social)](https://twitter.com/intent/follow?screen_name=wachin_id)
 [![GitHub followers](https://img.shields.io/github/followers/wachin?label=Follow&style=social)](https://github.com/wachin?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=wachin&color=red&style=flat)](https://komarev.com/ghpvc/?username=wachin)
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:linuxfrontier@proton.me)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/pfslee)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wachin.id)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/wachin/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3iYPG22R0QXL5pF2ssDUmw)
-[![Profile Views](https://komarev.com/ghpvc/?username=wachin&color=red&style=flat)](https://komarev.com/ghpvc/?username=wachin)
+
 
 ---
 
