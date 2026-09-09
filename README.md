@@ -4,14 +4,14 @@
 
 ![](vx_images/20544300826596.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/wachin_id?style=social&cacheSeconds=3600)](https://twitter.com/intent/follow?screen_name=wachin_id)
-[![GitHub followers](https://img.shields.io/github/followers/wachin?label=Follow&style=social&cacheSeconds=3600)](https://github.com/wachin?tab=followers)
-
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3iYPG22R0QXL5pF2ssDUmw)
-
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/wachin_id?style=social)](https://twitter.com/intent/follow?screen_name=wachin_id)
+[![GitHub followers](https://img.shields.io/github/followers/wachin?label=Follow&style=social)](https://github.com/wachin?tab=followers)
+[<img src="https://cdn.simpleicons.org/protonmail/6D4AFF" width="32" height="32" alt="Proton Mail">](mailto:linuxfrontier@proton.me)
+[<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram">](https://t.me/pfslee)
+[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn">](https://www.linkedin.com/in/wachin/)
+[<img src="https://cdn.simpleicons.org/youtube/FF0000" width="32" height="32" alt="YouTube">](https://www.youtube.com/channel/UC3iYPG22R0QXL5pF2ssDUmw)
 [![Profile Views](https://komarev.com/ghpvc/?username=wachin&color=red&style=flat)](https://komarev.com/ghpvc/?username=wachin)
+
 ---
 
 ## About Me / Sobre Mí
