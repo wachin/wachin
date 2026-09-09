@@ -11,7 +11,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white&cacheSeconds=3600&link=https://www.linkedin.com/in/wachin/)](https://www.linkedin.com/in/wachin/)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC3iYPG22R0QXL5pF2ssDUmw?style=social&cacheSeconds=3600)](https://www.youtube.com/channel/UC3iYPG22R0QXL5pF2ssDUmw)
 [![Profile Views](https://komarev.com/ghpvc/?username=wachin&color=red&style=flat)](https://komarev.com/ghpvc/?username=wachin)
-
 ---
 
 ## About Me / Sobre Mí
