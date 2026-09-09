@@ -17,6 +17,9 @@
 [<img src="https://cdn.simpleicons.org/protonmail/6D4AFF" width="32" height="32" alt="Proton Mail">](mailto:linuxfrontier@proton.me)
 
 
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:linuxfrontier@proton.me)
+
+
 
 
 [<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram">](https://t.me/pfslee)
