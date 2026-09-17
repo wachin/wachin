@@ -168,12 +168,6 @@ En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](htt
 
 ---
 
-## Connect With Me / Conéctate Conmigo
-
-**Social Networks / Redes Sociales:**
-- 📘 Facebook [wachin.id](https://www.facebook.com/wachin.id)
-- 📸 Instagram [washington_indacochea](https://www.instagram.com/washington_indacochea/)
-
 **Blogs:**
 - 📝 [Facilitar el Software Libre](https://facilitarelsoftwarelibre.blogspot.com/) - Linux programs and related topics / Programas de Linux y temas relacionados
 - 📝 [Facilitating Free Software](https://facilitatingfreesoftware.blogspot.com/) - Entries in English / Entradas en inglés
