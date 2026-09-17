@@ -10,19 +10,16 @@
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:linuxfrontier@proton.me)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/pfslee)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wachin.id)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/washington_indacochea/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/wachin/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3iYPG22R0QXL5pF2ssDUmw)
 
 
 ---
 
-## About Me / Sobre Mí
+Linux, the final frontier. These are the voyages of Washington Indacochea Delgado aboard a Linux Operating System; his ongoing mission: to explore new ways of making Free Software easier to use, so that it may reach places it could never reach before.
 
-I'm a **32-bit Linux user** passionate about compiling and improving applications that are no longer available for legacy systems. I love documenting everything that helps me along the way.
-
-Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicaciones que ya no están disponibles para sistemas legacy. Me encanta documentar todo lo que me va sirviendo en el camino.
-
-> 🐧 *"Linux, the final frontier"* - Washington Indacochea Delgado
+Linux, la frontera final. Estos son los viajes de Washington Indacochea Delgado a bordo de un Sistema Operativo Linux; su continua misión, explorar nuevas maneras de facilitar el uso del Software Libre para que llegue a lugares donde nunca pudo llegar.
 
 ---
 
@@ -141,11 +138,10 @@ Soy un **usuario de Linux de 32 bits** apasionado por compilar y mejorar aplicac
 ### Font & Theme Improvements / Mejoras de Fuentes y Temas
 
 | Repository | Description |
-| ---------- | ----------- |
+| --- | --- |
 | [fontmatrix](https://github.com/wachin/fontmatrix) | Improvement of FontMatrix font collections manager <br/> <br/> Mejora de FontMatrix, el gestor de colecciones de fuentes |
 | [zorin-icon-themes](https://github.com/wachin/zorin-icon-themes) | ZorinOS icon theme improvements <br/> <br/> Mejoras del tema de iconos de ZorinOS |
 | [zorin-desktop-themes](https://github.com/wachin/zorin-desktop-themes) | ZorinOS desktop theme improvements <br/> <br/> Mejoras del tema de escritorio de ZorinOS |
-| [markor](https://github.com/wachin/markor) | Improvements of Markor Text editor for Android <br/> <br/> Mejoras del editor de texto Markor para Android |
 
 ---
 
@@ -181,14 +177,6 @@ En los siguientes repositorios he creado los paquetes deb para [MX Linux 21](htt
 **Blogs:**
 - 📝 [Facilitar el Software Libre](https://facilitarelsoftwarelibre.blogspot.com/) - Linux programs and related topics / Programas de Linux y temas relacionados
 - 📝 [Facilitating Free Software](https://facilitatingfreesoftware.blogspot.com/) - Entries in English / Entradas en inglés
-
----
-
-## Mission & Vision / Misión y Visión
-
-Linux, the final frontier. These are the voyages of Washington Indacochea Delgado aboard the MX Linux Operating System; his continuing mission, to explore new ways to make it easier to use Free Software so it can go to places where he never could.
-
-Linux, la frontera final. Estos son los viajes de Washington Indacochea Delgado a bordo del Sistema Operativo MX Linux; su continua misión, explorar nuevas maneras de facilitar el uso del Software Libre para que llegue a lugares donde nunca pudo llegar.
 
 ---
 
